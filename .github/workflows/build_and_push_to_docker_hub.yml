@@ -27,4 +27,4 @@ jobs:
         uses: docker/build-push-action@v3
         with:
           push: true
-          tags: heiwalocal/ms1:latest
+          tags: heiwalocal/ms2:latest
